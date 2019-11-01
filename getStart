@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo python /home/pi/Desktop/sdk/getStart.py &
+exit 0
